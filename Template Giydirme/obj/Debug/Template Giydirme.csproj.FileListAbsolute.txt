@@ -1,0 +1,118 @@
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\Template Giydirme.dll.config
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\Template Giydirme.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\Template Giydirme.pdb
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\csc.exe
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\csc.exe.config
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\csc.rsp
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\csi.exe
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\csi.exe.config
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\csi.rsp
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.AppContext.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Console.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.Compression.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Net.Http.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.ValueTuple.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\vbc.exe
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\vbc.exe.config
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\vbc.rsp
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\VBCSCompiler.exe
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.csproj.AssemblyReference.cache
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.csproj.CoreCompileInputs.cache
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.csproj.CopyComplete
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.dll
+C:\Users\tugay.aydin\Desktop\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.pdb
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\Template Giydirme.dll.config
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\Template Giydirme.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\Template Giydirme.pdb
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\csc.exe
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\csc.exe.config
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\csc.rsp
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\csi.exe
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\csi.exe.config
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\csi.rsp
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.AppContext.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Console.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.Compression.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Net.Http.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Net.Sockets.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.ValueTuple.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.XPath.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\vbc.exe
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\vbc.exe.config
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\vbc.rsp
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\VBCSCompiler.exe
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.csproj.AssemblyReference.cache
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.csproj.CopyComplete
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.dll
+C:\Users\OĞUZHAN İŞCAN\Desktop\smartpro\Template Giydirme\Template Giydirme\obj\Debug\Template Giydirme.pdb
